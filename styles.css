@@ -1,0 +1,21 @@
+p {
+    margin: 30px;
+    padding: 10px;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+p.intro {
+    color: maroon;
+}
+
+img.explanation {
+    border-radius: 25%;
+}
+
+#outro {
+    color: darkslategrey;
+    padding: 20px;
+}
